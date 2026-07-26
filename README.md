@@ -2,7 +2,7 @@
 
 An interactive walkthrough of the **compound component** pattern: a group of components that coordinate one piece of state through **Context**, so the consumer writes clean declarative markup instead of threading `active`/`onChange` through every element.
 
-**▶ Live:** https://compound-components.vercel.app/
+**▶ Live:** https://compound-components-omega.vercel.app/
 
 ## The question it answers
 
